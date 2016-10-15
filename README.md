@@ -14,3 +14,14 @@ https://www.ampproject.org/docs/get_started/create/basic_markup.html
 
 happy AMP
 dev: christian knörnschild
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- github -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4548446080143008"
+     data-ad-slot="3497229342"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
